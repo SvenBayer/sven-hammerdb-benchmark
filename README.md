@@ -4,6 +4,7 @@ Benchmark on AWS Amazon RDS databases with HammerDB (TPROC-C, not a full TPC-C)
 Please check out the blog-post at https://svenbayer.blog
 
 For references, check out https://www.hammerdb.com/ and https://www.hammerdb.com/blog/
+
 For PostgreSQL installation, check out https://techviewleo.com/install-postgresql-12-on-amazon-linux/
 
 # Installation
