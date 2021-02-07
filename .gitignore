@@ -1,0 +1,15 @@
+.DS_Store
+
+# If you want to commit your results, put them in a sub-folder
+/results/*
+!*/results
+
+# Ignore also logs if they are stored in the results folder since they will contain your db password
+*/log
+/log/*
+
+# Let's not commit the db password, ok?
+config/dbpassword.config
+
+# This can be downloaded
+HammerDB*

@@ -1,0 +1,7 @@
+pg_host,pg_count_ware,pg_num_vu,run_with_num_users,NOPM
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,1,4496
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,2,23078
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,4,48182
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,8,77895
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,16,58761
+postgres-m5-xlarge.cdtiufpcbtse.eu-central-1.rds.amazonaws.com,1,1,32,24593
