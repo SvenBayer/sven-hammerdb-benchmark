@@ -1,7 +1,8 @@
 # sven-hammerdb-benchmark
 Benchmark on AWS Amazon RDS databases with HammerDB (TPROC-C, not a full TPC-C)
 
-Please check out the blog-post at https://svenbayer.blog/benchmarking-amazon-rds-graviton2/
+Please check out the blog-post at here:
+https://svenbayer.wordpress.com
 
 For references, check out https://www.hammerdb.com/ and https://www.hammerdb.com/blog/
 
